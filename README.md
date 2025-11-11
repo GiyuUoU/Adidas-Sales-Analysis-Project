@@ -165,18 +165,9 @@ The cleaned dataset was imported into PostgreSQL for business-level insights.
 
 ---
 
-## Future Enhancements
-
-- Automate ETL workflow (Python → PostgreSQL → Power BI refresh)
-- Add predictive analytics for sales forecasting
-- Integrate dashboard into a live web reporting system
-
----
-
 ## Author
 
 **Created by:** Rudra  
-**Project Duration:** 6 hours (end-to-end)  
 **Tools Used:** Python | PostgreSQL | Power BI
 
 ---
