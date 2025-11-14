@@ -71,7 +71,7 @@ The dataset was cleaned using Python (Pandas, NumPy, Matplotlib) in Google Colab
 - Derived additional fields (Year, Month)
 - Exported final cleaned file for PostgreSQL
 
-**Output File:** `adidas_cleaned_dataset.xlsx`
+**Output File:** `adidas_cleaned_dataset.csv`
 
 ---
 
