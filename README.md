@@ -139,9 +139,10 @@ The cleaned dataset was imported into PostgreSQL for business-level insights.
 
 | File Name | Description |
 |------------|-------------|
-| adidas_data_analysis.py | Python script for data cleaning and export |
-| adidas_cleaned_dataset.xlsx | Final cleaned dataset ready for SQL import |
-| sql_queries.sql | PostgreSQL business analysis queries |
+| Adidas US Sales Dataset (Raw).xlsx | Raw dataset |
+| Adidas_Sales_DataAnalysis.ipynb | Python script for data cleaning and export |
+| adidas_cleaned_dataset.csv | Final cleaned dataset ready for SQL import |
+| Adidas_BusinessAnalysis_PostgreSql.sql | PostgreSQL business analysis queries |
 | Adidas_Sales_Dashboard.pbix | Power BI dashboard file |
 | README.md | Project documentation file |
 
